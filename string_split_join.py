@@ -6,7 +6,7 @@ line = 'this is a string'
 
 def split_and_join(line):
    lines = line.split() 
-   lines = "-".join(lines)
+   lines = " ".join(lines)
    return lines
 
 split_and_join(line)
