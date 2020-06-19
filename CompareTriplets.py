@@ -1,12 +1,12 @@
 #!/bin/python3
-
 import math
 import os
 import random
 import re
 import sys
 
-# Compare the Triplets
+# New to add class
+# Compare the Triples
 # https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
 def compareTriplets(a, b):
