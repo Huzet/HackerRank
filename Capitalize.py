@@ -1,12 +1,13 @@
 #!/bin/python3
 
+# https://www.hackerrank.com/challenges/capitalize/problem
+
 import math
 import os
 import random
 import re
 import sys
 
-# https://www.hackerrank.com/challenges/capitalize/problem
 
 def solve(s):
     mylist = []
