@@ -8,7 +8,6 @@ import random
 import re
 import sys
 
-# Complete the birthdayCakeCandles function below.
 def birthdayCakeCandles(ar):
     tallest_candle = ar[0]
     candle_count = 0
