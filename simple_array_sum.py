@@ -4,7 +4,6 @@ import os
 import sys
 
 # Given an array of integers, find the sum of its elements.
-# Complete the simpleArraySum function below.
 
 def simpleArraySum(ar):
     total=0
