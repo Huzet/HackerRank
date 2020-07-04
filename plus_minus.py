@@ -8,7 +8,7 @@ import random
 import re
 import sys
 
-# Complete the plusMinus function below.
+
 def plusMinus(arr):
     postive = 0
     negative = 0
