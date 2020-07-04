@@ -8,7 +8,6 @@ import random
 import re
 import sys
 
-# Complete the staircase function below.
 def str_append(s, n):
     output = ''
     i = 0
