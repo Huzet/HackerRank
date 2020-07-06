@@ -1,8 +1,7 @@
 #!/bin/python3
 
 # https://www.hackerrank.com/challenges/string-validators/problem
-# To Do:
-# [ ] Make shorter
+
 
 if __name__ == '__main__':
     s = input()
