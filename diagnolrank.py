@@ -4,8 +4,6 @@ arr =  [[3,2,4],
         [4,4,6],
         [4,8,3]]
 
-# left =  10, right = 12
-
 def diagonalDifference(arr):
     left_diagonal=0   # GOOD
     right_diagonal=0
