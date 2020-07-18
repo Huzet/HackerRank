@@ -6,14 +6,16 @@ def doorMat(height):
     mat = []
     width = 3 * height
 
+
     for x in range(0, height):
-        mat.append('-')
+        column = []
         for y in range(0, width):
-         mat.append('-')
-    
+         column.append('-')
+         mat.append(column)
+    print(mat)
     for y in range(height):
         for x in range(width):
             print(mat[x][y], end='')
-    print()
+        print() 
 
-doorMat(7)
+doorMat(9)
