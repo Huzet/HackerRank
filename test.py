@@ -1,1 +1,0 @@
-print('alice' + str(5) * 2)
